@@ -17,7 +17,7 @@
     "supports-color": "^3.1.0",
     "tapable": "~0.1.8",
     "uglify-js": "~2.6.0",
-    "watchpack": "^0.2.1",
+    "watchpack": "git+https://github.com/kamilkp/watchpack#1530de0a28ce9f93d0fb066736766f4b502c1097",
     "webpack-core": "~0.6.0"
   },
   "license": "MIT",
